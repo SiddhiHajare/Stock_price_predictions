@@ -3,10 +3,10 @@
 # Accuracy achieved = 90.32258064516128 %
 
 # Summary of files :
-1. stock_price_round_2.ipynb contains solution of 1st problem statement i.e prediction model of stock prices.
-2. new.csv is dataset of stock prices of Apple, Microsoft and Intel.
-3. data_processing_round_2.ipynb : This file contains backtesting of above mentioned stocks with RSI, EMA and MACD indicators. Formed a new dataset with these values.
-4. model_training_round_2.ipynb : Trained the classifier using the new dataset to optimise indicators.
+1. new.csv is dataset of stock prices of Apple, Microsoft and Intel.
+2. data_processing_round_2.ipynb : This file contains backtesting of above mentioned stocks with RSI, EMA and MACD indicators. Formed a new dataset with these values.
+3. model_training_round_2.ipynb : Trained the classifier using the new dataset to optimise indicators.
+4. stock_price_round_1.ipynb : contains solution of problem statement of round 1 i.e prediction model of stock prices. Used Prophet in python.
 
 # How this works :
 1. Download the data of multiple stocks from Yahoo.
