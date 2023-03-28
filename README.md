@@ -13,7 +13,7 @@
 2. Clean & process downloaded data.
 3. Backtested strategy on above mentioned 3 stocks.
 4. Create labels with input dataset for training
-5. Backtest & Create this dataset for all stocks
+5. Create this dataset for all stocks
 6. Train classifiers on this data 
 7. Compare scores
 8. Highest score achieved using Random Forest Classifier
